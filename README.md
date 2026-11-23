@@ -22,14 +22,6 @@ Group real estate buyers into clear segments, understand how each group invests 
 5. **Dashboard:** Power BI, 5 pages, 4 slicers (country, region, acquisition purpose, client type).
 6. **Research paper:** findings, limitations and recommendations.
 
-## Segments
-
-| Segment | Customers | Share |
-|---|---|---|
-| Domestic Home Buyers | 1,023 | 51.2% |
-| Domestic Investors | 435 | 21.8% |
-| International Buyers | 439 | 22.0% |
-| Corporate Buyers | 103 | 5.2% |
 
 ## Key Findings
 
